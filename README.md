@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm backend developer
+Hello, I'm backend developer
 
 
 ## 🌐 Socials:
